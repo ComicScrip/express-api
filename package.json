@@ -30,6 +30,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "@prisma/client": "2.23.0",
+    "argon2": "^0.27.2",
     "cors": "^2.8.5",
     "dotenv": "^8.2.0",
     "express": "4.17.1",
@@ -50,6 +52,7 @@
     "jest": "^26.6.3",
     "jest-circus": "^26.6.3",
     "nodemon": "^2.0.6",
+    "prisma": "2.23.0",
     "supertest": "^4.0.2"
   }
 }
